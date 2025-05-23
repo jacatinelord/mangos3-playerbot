@@ -20,7 +20,7 @@ alt="GitHub last commit" border=0 valign="top"/>][61]
  **MangosThree - Cataclysm WoW server**
 ===
 
-**[WARANING]** THIS VERSION IS VERY UNSTABLE WITH A LOT OF CRASH ISSUES. DO NOT USE FOR PROD.
+## **[WARANING]** THIS VERSION IS VERY UNSTABLE WITH A LOT OF CRASH ISSUES. DO NOT USE FOR PROD.
 
 **Mangos** is an open source project written in [C++][7]. It's fast, runs on multiple
 platforms and stores game data in [MySQL][40] or [MariaDB][41]. It also has
